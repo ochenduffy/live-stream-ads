@@ -1,6 +1,23 @@
 {
   "ZuCount": 1500,
-  "Ad_TV_Main_Img": "https://i.imgur.com/your-ad-image.jpg",
-  "Ad_TV_Main_Link": "https://www.nike.com"
-  "Ad_Time_Seconds": 15
+  "Ad_Playlist": [
+    {
+      "Slot": 1,
+      "Img": "https://i.imgur.com/sponsorA_50percent.jpg",
+      "Link": "https://bit.ly/sponsorA",
+      "Seconds": 10
+    },
+    {
+      "Slot": 2,
+      "Img": "https://i.imgur.com/sponsorB_25percent.jpg",
+      "Link": "https://bit.ly/sponsorB",
+      "Seconds": 10
+    },
+    {
+      "Slot": 3,
+      "Img": "https://i.imgur.com/sponsorA_50percent.jpg",
+      "Link": "https://bit.ly/sponsorA",
+      "Seconds": 10
+    }
+  ]
 }
