@@ -3,20 +3,14 @@
   "Ad_Playlist": [
     {
       "Slot": 1,
-      "Img": "https://i.imgur.com/sponsorA_50percent.jpg",
-      "Link": "https://bit.ly/sponsorA",
+      "Img": "https://i.imgur.com/your-ad-1.jpg",
+      "Link": "https://bit.ly/your-tracking-link-1",
       "Seconds": 10
     },
     {
       "Slot": 2,
-      "Img": "https://i.imgur.com/sponsorB_25percent.jpg",
-      "Link": "https://bit.ly/sponsorB",
-      "Seconds": 10
-    },
-    {
-      "Slot": 3,
-      "Img": "https://i.imgur.com/sponsorA_50percent.jpg",
-      "Link": "https://bit.ly/sponsorA",
+      "Img": "https://i.imgur.com/your-ad-2.jpg",
+      "Link": "https://bit.ly/your-tracking-link-2",
       "Seconds": 10
     }
   ]
