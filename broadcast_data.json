@@ -3,15 +3,15 @@
   "Ad_Playlist": [
     {
       "Slot": 1,
-      "Img": "https://i.imgur.com/your-ad-1.jpg",
-      "Link": "https://bit.ly/your-tracking-link-1",
-      "Seconds": 10
+      "Img": "https://placehold.co/1024x512/ff2a2a/ffffff.jpg?text=AD+SLOT+1+(8+SEC)",
+      "Link": "https://radioactive.ink",
+      "Seconds": 8
     },
     {
       "Slot": 2,
-      "Img": "https://i.imgur.com/your-ad-2.jpg",
-      "Link": "https://bit.ly/your-tracking-link-2",
-      "Seconds": 10
+      "Img": "https://placehold.co/1024x512/0066ff/ffffff.jpg?text=AD+SLOT+2+(8+SEC)",
+      "Link": "https://github.com",
+      "Seconds": 8
     }
   ]
 }
